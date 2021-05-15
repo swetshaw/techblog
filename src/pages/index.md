@@ -11,7 +11,7 @@ sections:
     type: section_content
     title: About
     content: >-
-      I have started this blog with an intention to share 
+      I have started this blog with an intention to share with you all 
     actions:
       - label: Contact Me
         url: /contact
