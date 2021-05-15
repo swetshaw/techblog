@@ -14,7 +14,7 @@ sections:
       I have started this blog with an intention to share with you all everything thing that I learn. 
     actions:
       - label: Contact Me
-        url: /shawsweta180@gmail.com
+        url: /contact
         style: button
   - section_id: recent-posts
     type: section_posts
